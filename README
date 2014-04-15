@@ -1,0 +1,7 @@
+FPGA miner verified on xilinx KC705 board, based on Open Source FPGA miner: 
+https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner
+
+project\KC705: design optimized for Xilinx technique, utilizing DSP48E1 for hashing, higher hashing clock frequency up to 400MHz
+project\verilog_port_xilinx: basic design, lower hashing clock frequency, 100MHz verified
+
+script: mining script written in python

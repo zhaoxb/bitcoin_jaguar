@@ -1,0 +1,1 @@
+mining_proxy -o stratum.btcguild.com -p 3333
